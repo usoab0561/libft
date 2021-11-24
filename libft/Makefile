@@ -6,7 +6,7 @@
 #    By: hojang <hojang@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/11/23 17:48:34 by hojang            #+#    #+#              #
-#    Updated: 2021/11/23 17:49:18 by hojang           ###   ########.fr        #
+#    Updated: 2021/11/24 18:36:52 by hojang           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -43,6 +43,7 @@ SRCS		=	ft_atoi.c\
 			ft_strnlen.c\
 			ft_strrev.c\
 			ft_strmapi.c\
+			ft_striteri.c\
 			ft_strncmp.c\
 			ft_strnstr.c\
 			ft_strrchr.c\
