@@ -6,18 +6,19 @@
 #    By: hojang <hojang@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/11/23 17:48:34 by hojang            #+#    #+#              #
-#    Updated: 2021/11/24 18:36:52 by hojang           ###   ########.fr        #
+#    Updated: 2021/12/20 22:06:53 by hojang           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-SRCS		=	ft_atoi.c\
+SRCS		=	ft_isalpha.c\
+			ft_isdigit.c\
+			ft_isalnum.c\
+			ft_isascii.c\
+			ft_isprint.c\
+			ft_strlen.c\
+			ft_atoi.c\
 			ft_bzero.c\
 			ft_calloc.c\
-			ft_isalnum.c\
-			ft_isalpha.c\
-			ft_isascii.c\
-			ft_isdigit.c\
-			ft_isprint.c\
 			ft_isspace.c\
 			ft_isupper.c\
 			ft_islower.c\
@@ -39,7 +40,6 @@ SRCS		=	ft_atoi.c\
 			ft_strjoin.c\
 			ft_strlcat.c\
 			ft_strlcpy.c\
-			ft_strlen.c\
 			ft_strnlen.c\
 			ft_strrev.c\
 			ft_strmapi.c\
