@@ -6,7 +6,7 @@
 #    By: hojang <hojang@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/11/23 17:48:34 by hojang            #+#    #+#              #
-#    Updated: 2021/12/20 22:06:53 by hojang           ###   ########.fr        #
+#    Updated: 2021/12/21 03:28:21 by hojang           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,8 +16,12 @@ SRCS		=	ft_isalpha.c\
 			ft_isascii.c\
 			ft_isprint.c\
 			ft_strlen.c\
-			ft_atoi.c\
+			ft_memset.c\
 			ft_bzero.c\
+			ft_memcpy.c\
+			ft_memmove.c\
+			ft_strlcpy.c\
+			ft_atoi.c\
 			ft_calloc.c\
 			ft_isspace.c\
 			ft_isupper.c\
@@ -26,9 +30,6 @@ SRCS		=	ft_isalpha.c\
 			ft_memccpy.c\
 			ft_memchr.c\
 			ft_memcmp.c\
-			ft_memcpy.c\
-			ft_memmove.c\
-			ft_memset.c\
 			ft_putchar_fd.c\
 			ft_putendl_fd.c\
 			ft_putnbr_fd.c\
@@ -39,7 +40,6 @@ SRCS		=	ft_isalpha.c\
 			ft_strndup.c\
 			ft_strjoin.c\
 			ft_strlcat.c\
-			ft_strlcpy.c\
 			ft_strnlen.c\
 			ft_strrev.c\
 			ft_strmapi.c\
